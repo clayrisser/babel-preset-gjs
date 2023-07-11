@@ -4,6 +4,8 @@
 
 > babel preset for gjs
 
+![](assets/babel-plugin-gjs.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
